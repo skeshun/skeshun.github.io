@@ -1,1 +1,2 @@
 # skeshun.github.io
+ignore
